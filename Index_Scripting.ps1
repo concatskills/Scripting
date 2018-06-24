@@ -1,5 +1,5 @@
 ﻿param(
-    [Parameter(Mandatory=$false)] [string]$Instance="DILBERT\SQL2017",
+    [Parameter(Mandatory=$false)] [string]$Instance="localhost",
     [Parameter(Mandatory=$false)] [string]$Database="AdventureWorks2016CTP3",
     [Parameter(Mandatory=$false)] [string]$Username,
     [Parameter(Mandatory=$false)] [string]$Password,
